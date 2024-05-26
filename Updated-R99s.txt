@@ -827,7 +827,7 @@ Reject Green Acara Plushie
 Reject Purple Quiggle Plushie
 Reject Red Acara Plushie
 Reject Retro Blue Acara Plushie
-Reject Retro Blue Acara Plushie
+
 Reject Retro Koi Plushie
 Reject Retro Purple Kougra Plushie
 Reject Retro Rainbow Cybunny Plushie
