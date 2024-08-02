@@ -29,6 +29,7 @@ Cybunny Sword
 Emerald Krawk Sword
 Enchanted Ixi Wand
 Gelert Throwing Bone
+Gilded Ruki Flail
 Golden Bori Bow
 Golden Bori Staff
 Golden Korbat Charm
@@ -209,6 +210,7 @@ Combo Battle Mirror
 Cybunny Shield
 Eleskeleton 3000
 Emerald Hissi Shield
+Enchanted Kiko Shield
 Flame Reflectozap
 Gelert Spiked Shield
 Green Shoyru Tail Armour
@@ -237,6 +239,7 @@ Emerald Krawk Jacket
 Geopeppers
 Pyramid Purpple
 Pyramid Strawberry
+Blobikins
 Dua
 Geb
 Khonsu
@@ -841,6 +844,7 @@ Lightning Giant Plushie
 Lightning Lizard Plushie
 Magical Blue Flotsam Plushie
 Magical Blue Kacheek Plushie
+Magical Blue Kiko Squeeze Toy
 Magical Blue Krawk Plushie
 Magical Blue Nimmo Plushie
 Magical Blue Shoyru Plushie
@@ -860,6 +864,7 @@ Magical Cloud Lupe Plushie
 Magical Green Elephante Toy
 Magical Green Flotsam Plushie
 Magical Green Gelert Plushie
+Magical Green Kiko Squeeze Toy
 Magical Green Koi Plushie
 Magical Green Krawk Plushie
 Magical Green Tonu Plushie
@@ -874,6 +879,7 @@ Magical Rainbow Cybunny Plushie
 Magical Red Blumaroo Plushie
 Magical Red Gelert Plushie
 Magical Red Grarrl Plushie
+Magical Red Kiko Squeeze Toy
 Magical Red Koi Plushie
 Magical Red Krawk Plushie
 Magical Red Lenny Plushie
@@ -886,6 +892,7 @@ Magical Shadow Draik Plushie
 Magical Spotted Blumaroo Plushie
 Magical Starry Kau Plushie
 Magical Starry Lupe Plushie
+Magical Yellow Kiko Squeeze Toy
 Magical Yellow Koi Plushie
 Magical Yellow Lenny Plushie
 Magical Yellow Nimmo Plushie
@@ -1004,6 +1011,15 @@ Virtublaster 5000
 Force Shield
 Spinach and Lemon Sloth Biscuit
 Tigersquash Spectacular
+Blue Aisha O
+Blue Doughnutfruit
+Checkered Doughnutfruit
+Fiery Doughnutfruit
+Glowing Aisha O
+Golden Doughnutfruit
+Green Doughnutfruit
+Icy Doughnutfruit
+Purple Doughnutfruit
 Secret Laboratory Map 1
 Secret Laboratory Map 2
 Secret Laboratory Map 3
@@ -1013,6 +1029,9 @@ Secret Laboratory Map 6
 Secret Laboratory Map 7
 Secret Laboratory Map 8
 Secret Laboratory Map 9
+Silver Doughnutfruit
+Sponge Doughnutfruit
+Yellow Doughnutfruit
 Apple Lantern
 Coco Pumpkin
 Crunchy Snotball
@@ -1124,6 +1143,7 @@ Gondolier Usuki
 Graduate Usuki
 Grundo Independence Day Usuki
 Hawaiian Usuki Reject
+Huntress Usuki Set
 Jeran Usuki
 Kadoatie Usuki Set
 King Skarl Usuki
@@ -1154,6 +1174,5 @@ Valentines Boy Usuki
 Valentines Girl Usuki
 Welsh Usuki Reject
 Werewolf Usuki
-Huntress Usuki Set
 Candychan
 Snowickle
