@@ -48,6 +48,7 @@ Koi Amulet
 Korbat Power Blaster
 Korbat Wing Blade
 Kougra Power Sword
+Kyrii Spoonapult
 Lightweight Xweetok Spear
 Lupe Chia Bomb
 Nimmo Throwing Star
@@ -782,6 +783,7 @@ Flankin
 Fleaf
 Glack
 Greevix
+Grubber
 Grumblebug
 Itchi
 Jermite
@@ -822,6 +824,7 @@ Chaos Giant Plushie
 Christmas Kau Plushie
 Christmas Korbat Plushie
 Chrysolite Dervish Plushie
+Cloud Draik Plushie
 Cloud Lenny Plushie
 Darigan Acara Plushie
 Desert Cobrall Plushie
@@ -938,6 +941,7 @@ Skunk Mynci Plushie
 Speckled Nimmo Plushie
 Spotted Gelert Plushie
 Spotted Koi Plushie
+Starry Draik Plushie
 Steel Golem Neoquest Plushie
 Swamp Lupe Neoquest Plushie
 Techo Fanatic Plushie
@@ -999,6 +1003,7 @@ Magical Pear Chia Pop
 Magical Pepper Chia Pop
 Magical Pineapple Chia Pop
 Magical Plum Chia Pop
+Magical Snowberry Chia Pop
 Magical Thornberry Chia Pop
 Magical Tomato Chia Pop
 Tartan Chia Pop
