@@ -58,6 +58,7 @@ Peophin Magical Medallion
 Pink Clockwork Poogle
 Poison Muffin
 Poogle Fang Amulet
+Pteri Throwing Feathers
 Quiggle Sword of Terror
 Rainbow Frost Cannon
 Rainbow Sticky Hand
@@ -203,6 +204,7 @@ Paint Brush Coin
 Scowling Sloth Coin
 Smiling Space Faerie Coin
 Acara Ear Guards
+Aisha Feathered Charm
 Blue Nimmo Boots
 Bubbling Ruki Elixir
 Cloak of Night
@@ -212,6 +214,7 @@ Cybunny Shield
 Eleskeleton 3000
 Emerald Hissi Shield
 Enchanted Kiko Shield
+Feathered Pteri Cloak
 Flame Reflectozap
 Gelert Spiked Shield
 Green Shoyru Tail Armour
@@ -262,12 +265,16 @@ Ruby Encrusted Sceptre
 Super Sand Grain
 Fountain of Youth
 Bacon Belly Buster
+Deluxe Dark Nova Pop
+Deluxe Super Nova Pop
+Deluxe Ultra Nova Pop
 Faerie Chocodrop
 Faerie Dreamwich
 Faerie Fruit Salad
 Faerie Sparklecake
 Grey Faerie Mushroom
 Space Faerie Mushroom
+Space Faerie Nova Pop
 Ultra Nova Pop
 Flosset
 Gwortz
@@ -363,6 +370,7 @@ Stone Snowflake
 Blueberry Jelly Bass
 Orange Jelly Guitar
 Volcano Crystal
+Perfect Jelly Pumpkin
 Baby Acara Morphing Potion
 Baby Aisha Morphing Potion
 Baby Bruce Morphing Potion
@@ -491,6 +499,7 @@ Fire Skeith Morphing Potion
 Fire Techo Morphing Potion
 Fire Tuskaninny Morphing Potion
 Fire Wocky Morphing Potion
+Fire Xweetok Morphing Potion
 Flaming Torch
 Ghost Acara Morphing Potion
 Ghost Draik Morphing Potion
@@ -795,6 +804,8 @@ Moach
 Moffit
 Mootix
 Mozito
+Not-so-Mechanical Mouse
+Pebble
 Pesky Gnat
 Phleb
 Rainblug
@@ -948,6 +959,7 @@ Techo Fanatic Plushie
 Thunder Lizard Plushie
 Two Rings Archmagus Plushie
 Tyrannian Techo Plushie
+Vintage Plushie Ixi Plushie
 White Draik Plushie
 White Ixi Plushie
 Beepallite
